@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/weather/index"
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  }
+}
